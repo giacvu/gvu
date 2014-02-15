@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 # nodepg
@@ -18,3 +19,9 @@ Created with [Nodeclipse](https://github.com/Nodeclipse/nodeclipse-1)
  ([Eclipse Marketplace](http://marketplace.eclipse.org/content/nodeclipse), [site](http://www.nodeclipse.org))   
 
 Nodeclipse is free open-source project that grows with your contributions.
+=======
+gvu
+===
+
+root
+>>>>>>> 4b1767506e6eb4038444b27793494890e5a174ee
